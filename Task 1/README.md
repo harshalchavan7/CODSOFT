@@ -1,0 +1,1 @@
+This folder contains the completed Task 1: 'Number Game' of the virtual internship.
