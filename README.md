@@ -1,2 +1,2 @@
 # CODSOFT
-This repo contains all the tasks completed in the CodSoft virtual Internship.
+This repository contains all the tasks that I have completed during the CodSoft virtual Internship.
