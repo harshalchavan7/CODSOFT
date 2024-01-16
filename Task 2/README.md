@@ -1,0 +1,1 @@
+This folder contains the completed Task 2: 'Student Grade Calculator' of the virtual internship.
